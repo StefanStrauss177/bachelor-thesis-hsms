@@ -126,7 +126,7 @@ plot_line(
     df=latency_df,
     y_column="avg_mean_ms",
     stddev_column="avg_stddev_ms",
-    y_label="Mean RTT (ms)",
+    y_label="Mittlere RTT (ms)",
     title="Latenz nach Nutzdatengröße",
     output_name="figure_1_latency_by_payload.png"
 )
@@ -157,7 +157,7 @@ plot_line(
     df=throughput_df,
     y_column="avg_mean_rtt_ms",
     stddev_column="avg_stddev_ms",
-    y_label="Mean RTT (ms)",
+    y_label="Mittlere RTT (ms)",
     title="RTT während der Durchsatzmessung",
     output_name="figure_4_throughput_rtt.png"
 )
