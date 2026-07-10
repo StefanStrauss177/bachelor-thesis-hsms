@@ -1,0 +1,11 @@
+{
+  "AppType": "Host",
+  "Size": "XL",
+  "TotalDuration": "00:09:54.1935572",
+  "ExpectedTotalMessageCount": 118838,
+  "AchievedTotalMessageCountPercentage": 98.83707231693566,
+  "TraceExpectedTotalMessageCount": 59419,
+  "TraceAchievedTotalMessageCountPercentage": 100,
+  "ErrorCount": 0,
+  "AchievedMessagesPerSecond": 197.67296123755412
+}

@@ -1,0 +1,364 @@
+{
+  "Samples": [
+    {
+      "Timestamp": "2026-07-07T08:33:17.8529781Z",
+      "WorkingSet64": 147005440,
+      "TotalProcessorTime": "00:00:03.7500000",
+      "CpuPercent": 1.4979553421229466
+    },
+    {
+      "Timestamp": "2026-07-07T08:33:27.8552452Z",
+      "WorkingSet64": 135221248,
+      "TotalProcessorTime": "00:00:11.7500000",
+      "CpuPercent": 6.665155609238497
+    },
+    {
+      "Timestamp": "2026-07-07T08:33:37.8569876Z",
+      "WorkingSet64": 134262784,
+      "TotalProcessorTime": "00:00:17.6875000",
+      "CpuPercent": 4.947054691857158
+    },
+    {
+      "Timestamp": "2026-07-07T08:33:47.849545Z",
+      "WorkingSet64": 134934528,
+      "TotalProcessorTime": "00:00:23.8281250",
+      "CpuPercent": 5.120998854607531
+    },
+    {
+      "Timestamp": "2026-07-07T08:33:57.8531452Z",
+      "WorkingSet64": 136380416,
+      "TotalProcessorTime": "00:00:31.2343750",
+      "CpuPercent": 6.169653801238478
+    },
+    {
+      "Timestamp": "2026-07-07T08:34:07.8621331Z",
+      "WorkingSet64": 138244096,
+      "TotalProcessorTime": "00:00:38.5625000",
+      "CpuPercent": 6.101287057538888
+    },
+    {
+      "Timestamp": "2026-07-07T08:34:17.8573087Z",
+      "WorkingSet64": 138838016,
+      "TotalProcessorTime": "00:00:45.7187500",
+      "CpuPercent": 5.966420106382789
+    },
+    {
+      "Timestamp": "2026-07-07T08:34:27.8658601Z",
+      "WorkingSet64": 141692928,
+      "TotalProcessorTime": "00:00:53.6875000",
+      "CpuPercent": 6.63495118784123
+    },
+    {
+      "Timestamp": "2026-07-07T08:34:37.8572554Z",
+      "WorkingSet64": 139526144,
+      "TotalProcessorTime": "00:01:01.0937500",
+      "CpuPercent": 6.177190286926191
+    },
+    {
+      "Timestamp": "2026-07-07T08:34:47.8615167Z",
+      "WorkingSet64": 139902976,
+      "TotalProcessorTime": "00:01:07.6562500",
+      "CpuPercent": 5.466420594192197
+    },
+    {
+      "Timestamp": "2026-07-07T08:34:57.853945Z",
+      "WorkingSet64": 139866112,
+      "TotalProcessorTime": "00:01:14.1718750",
+      "CpuPercent": 5.433801811717778
+    },
+    {
+      "Timestamp": "2026-07-07T08:35:07.8557291Z",
+      "WorkingSet64": 139993088,
+      "TotalProcessorTime": "00:01:21.0625000",
+      "CpuPercent": 5.741163219070086
+    },
+    {
+      "Timestamp": "2026-07-07T08:35:17.864577Z",
+      "WorkingSet64": 139964416,
+      "TotalProcessorTime": "00:01:27.7031250",
+      "CpuPercent": 5.528962196205086
+    },
+    {
+      "Timestamp": "2026-07-07T08:35:27.8665043Z",
+      "WorkingSet64": 139821056,
+      "TotalProcessorTime": "00:01:33.9218750",
+      "CpuPercent": 5.1812930760521185
+    },
+    {
+      "Timestamp": "2026-07-07T08:35:37.8610235Z",
+      "WorkingSet64": 140300288,
+      "TotalProcessorTime": "00:01:41.0625000",
+      "CpuPercent": 5.9537839832588775
+    },
+    {
+      "Timestamp": "2026-07-07T08:35:47.857737Z",
+      "WorkingSet64": 140603392,
+      "TotalProcessorTime": "00:01:47.7968750",
+      "CpuPercent": 5.6138241499735555
+    },
+    {
+      "Timestamp": "2026-07-07T08:35:57.8627182Z",
+      "WorkingSet64": 140128256,
+      "TotalProcessorTime": "00:01:55",
+      "CpuPercent": 5.999615638125003
+    },
+    {
+      "Timestamp": "2026-07-07T08:36:07.8608589Z",
+      "WorkingSet64": 140136448,
+      "TotalProcessorTime": "00:02:01.7812500",
+      "CpuPercent": 5.652092560236391
+    },
+    {
+      "Timestamp": "2026-07-07T08:36:17.8634495Z",
+      "WorkingSet64": 140578816,
+      "TotalProcessorTime": "00:02:09.0468750",
+      "CpuPercent": 6.053119378893704
+    },
+    {
+      "Timestamp": "2026-07-07T08:36:27.8536986Z",
+      "WorkingSet64": 141037568,
+      "TotalProcessorTime": "00:02:15.2656250",
+      "CpuPercent": 5.187349799582741
+    },
+    {
+      "Timestamp": "2026-07-07T08:36:37.8638118Z",
+      "WorkingSet64": 135503872,
+      "TotalProcessorTime": "00:02:23.2968750",
+      "CpuPercent": 6.685946701714955
+    },
+    {
+      "Timestamp": "2026-07-07T08:36:47.8555065Z",
+      "WorkingSet64": 136339456,
+      "TotalProcessorTime": "00:02:30.5156250",
+      "CpuPercent": 6.020625309938663
+    },
+    {
+      "Timestamp": "2026-07-07T08:36:57.8648127Z",
+      "WorkingSet64": 137424896,
+      "TotalProcessorTime": "00:02:37.1406250",
+      "CpuPercent": 5.515700312308692
+    },
+    {
+      "Timestamp": "2026-07-07T08:37:07.8666817Z",
+      "WorkingSet64": 137461760,
+      "TotalProcessorTime": "00:02:44.4062500",
+      "CpuPercent": 6.05355609036671
+    },
+    {
+      "Timestamp": "2026-07-07T08:37:17.8636034Z",
+      "WorkingSet64": 137601024,
+      "TotalProcessorTime": "00:02:51.5937500",
+      "CpuPercent": 5.991427674514379
+    },
+    {
+      "Timestamp": "2026-07-07T08:37:27.8612005Z",
+      "WorkingSet64": 137469952,
+      "TotalProcessorTime": "00:02:58.5781250",
+      "CpuPercent": 5.821711399032073
+    },
+    {
+      "Timestamp": "2026-07-07T08:37:37.8533443Z",
+      "WorkingSet64": 137752576,
+      "TotalProcessorTime": "00:03:05.2343750",
+      "CpuPercent": 5.551236162153711
+    },
+    {
+      "Timestamp": "2026-07-07T08:37:47.861904Z",
+      "WorkingSet64": 137859072,
+      "TotalProcessorTime": "00:03:11.7968750",
+      "CpuPercent": 5.4640729175048035
+    },
+    {
+      "Timestamp": "2026-07-07T08:37:57.8634937Z",
+      "WorkingSet64": 137900032,
+      "TotalProcessorTime": "00:03:18.5000000",
+      "CpuPercent": 5.585049644657988
+    },
+    {
+      "Timestamp": "2026-07-07T08:38:07.8619829Z",
+      "WorkingSet64": 138235904,
+      "TotalProcessorTime": "00:03:25.2500000",
+      "CpuPercent": 5.625849953410961
+    },
+    {
+      "Timestamp": "2026-07-07T08:38:17.8650612Z",
+      "WorkingSet64": 139599872,
+      "TotalProcessorTime": "00:03:31.5156250",
+      "CpuPercent": 5.219747371833195
+    },
+    {
+      "Timestamp": "2026-07-07T08:38:27.8546992Z",
+      "WorkingSet64": 138133504,
+      "TotalProcessorTime": "00:03:38.0937500",
+      "CpuPercent": 5.487456936210635
+    },
+    {
+      "Timestamp": "2026-07-07T08:38:37.8626279Z",
+      "WorkingSet64": 138182656,
+      "TotalProcessorTime": "00:03:44.6875000",
+      "CpuPercent": 5.490438462722727
+    },
+    {
+      "Timestamp": "2026-07-07T08:38:47.8605389Z",
+      "WorkingSet64": 139182080,
+      "TotalProcessorTime": "00:03:51.7968750",
+      "CpuPercent": 5.925717048958194
+    },
+    {
+      "Timestamp": "2026-07-07T08:38:57.8636617Z",
+      "WorkingSet64": 138964992,
+      "TotalProcessorTime": "00:03:57.7968750",
+      "CpuPercent": 4.998439087441774
+    },
+    {
+      "Timestamp": "2026-07-07T08:39:07.8542143Z",
+      "WorkingSet64": 138960896,
+      "TotalProcessorTime": "00:04:04.6250000",
+      "CpuPercent": 5.695484919089127
+    },
+    {
+      "Timestamp": "2026-07-07T08:39:17.8561234Z",
+      "WorkingSet64": 139235328,
+      "TotalProcessorTime": "00:04:11.5937500",
+      "CpuPercent": 5.806183208230383
+    },
+    {
+      "Timestamp": "2026-07-07T08:39:27.8629232Z",
+      "WorkingSet64": 139247616,
+      "TotalProcessorTime": "00:04:18.2812500",
+      "CpuPercent": 5.5691297698057936
+    },
+    {
+      "Timestamp": "2026-07-07T08:39:37.8681959Z",
+      "WorkingSet64": 139141120,
+      "TotalProcessorTime": "00:04:25.0312500",
+      "CpuPercent": 5.622035669252673
+    },
+    {
+      "Timestamp": "2026-07-07T08:39:47.8548148Z",
+      "WorkingSet64": 139100160,
+      "TotalProcessorTime": "00:04:31.2500000",
+      "CpuPercent": 5.189235434493917
+    },
+    {
+      "Timestamp": "2026-07-07T08:39:57.8615455Z",
+      "WorkingSet64": 139063296,
+      "TotalProcessorTime": "00:04:38.3750000",
+      "CpuPercent": 5.933506334891175
+    },
+    {
+      "Timestamp": "2026-07-07T08:40:07.8606938Z",
+      "WorkingSet64": 139026432,
+      "TotalProcessorTime": "00:04:45.5781250",
+      "CpuPercent": 6.003115452009713
+    },
+    {
+      "Timestamp": "2026-07-07T08:40:17.8637366Z",
+      "WorkingSet64": 139059200,
+      "TotalProcessorTime": "00:04:52.1406250",
+      "CpuPercent": 5.4670864749274095
+    },
+    {
+      "Timestamp": "2026-07-07T08:40:27.8549009Z",
+      "WorkingSet64": 139059200,
+      "TotalProcessorTime": "00:04:58.8437500",
+      "CpuPercent": 5.590877431572213
+    },
+    {
+      "Timestamp": "2026-07-07T08:40:37.8663708Z",
+      "WorkingSet64": 139051008,
+      "TotalProcessorTime": "00:05:05.5781250",
+      "CpuPercent": 5.605549657265279
+    },
+    {
+      "Timestamp": "2026-07-07T08:40:47.8576224Z",
+      "WorkingSet64": 139304960,
+      "TotalProcessorTime": "00:05:12.4843750",
+      "CpuPercent": 5.7602476283685355
+    },
+    {
+      "Timestamp": "2026-07-07T08:40:57.8698449Z",
+      "WorkingSet64": 139034624,
+      "TotalProcessorTime": "00:05:19.1718750",
+      "CpuPercent": 5.566113484460286
+    },
+    {
+      "Timestamp": "2026-07-07T08:41:07.8561008Z",
+      "WorkingSet64": 139087872,
+      "TotalProcessorTime": "00:05:25.5937500",
+      "CpuPercent": 5.358927864045623
+    },
+    {
+      "Timestamp": "2026-07-07T08:41:17.8564277Z",
+      "WorkingSet64": 139116544,
+      "TotalProcessorTime": "00:05:31.9375000",
+      "CpuPercent": 5.286285524659532
+    },
+    {
+      "Timestamp": "2026-07-07T08:41:27.8553392Z",
+      "WorkingSet64": 138874880,
+      "TotalProcessorTime": "00:05:38.6718750",
+      "CpuPercent": 5.612590097098736
+    },
+    {
+      "Timestamp": "2026-07-07T08:41:37.8630233Z",
+      "WorkingSet64": 139309056,
+      "TotalProcessorTime": "00:05:45.4062500",
+      "CpuPercent": 5.607670176826091
+    },
+    {
+      "Timestamp": "2026-07-07T08:41:47.857102Z",
+      "WorkingSet64": 139149312,
+      "TotalProcessorTime": "00:05:51.8125000",
+      "CpuPercent": 5.341704650241214
+    },
+    {
+      "Timestamp": "2026-07-07T08:41:57.869249Z",
+      "WorkingSet64": 139128832,
+      "TotalProcessorTime": "00:05:58.3281250",
+      "CpuPercent": 5.423100060356685
+    },
+    {
+      "Timestamp": "2026-07-07T08:42:07.86426Z",
+      "WorkingSet64": 139149312,
+      "TotalProcessorTime": "00:06:04.9843750",
+      "CpuPercent": 5.549643717250536
+    },
+    {
+      "Timestamp": "2026-07-07T08:42:17.8565498Z",
+      "WorkingSet64": 139403264,
+      "TotalProcessorTime": "00:06:11.4218750",
+      "CpuPercent": 5.368722725929479
+    },
+    {
+      "Timestamp": "2026-07-07T08:42:27.8702573Z",
+      "WorkingSet64": 139350016,
+      "TotalProcessorTime": "00:06:18.1406250",
+      "CpuPercent": 5.591294066991004
+    },
+    {
+      "Timestamp": "2026-07-07T08:42:37.8557834Z",
+      "WorkingSet64": 139407360,
+      "TotalProcessorTime": "00:06:24.7812500",
+      "CpuPercent": 5.54187542173333
+    },
+    {
+      "Timestamp": "2026-07-07T08:42:47.8582993Z",
+      "WorkingSet64": 139382784,
+      "TotalProcessorTime": "00:06:31.6562500",
+      "CpuPercent": 5.7277256281758735
+    },
+    {
+      "Timestamp": "2026-07-07T08:42:57.859586Z",
+      "WorkingSet64": 139321344,
+      "TotalProcessorTime": "00:06:37.8750000",
+      "CpuPercent": 5.181624946984739
+    },
+    {
+      "Timestamp": "2026-07-07T08:43:07.8586359Z",
+      "WorkingSet64": 140345344,
+      "TotalProcessorTime": "00:06:44.1718750",
+      "CpuPercent": 5.247894435783676
+    }
+  ]
+}

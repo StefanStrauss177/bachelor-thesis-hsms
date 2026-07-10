@@ -1,0 +1,8 @@
+payload,file_count,avg_duration_sec,avg_payload_size_bytes,avg_total_messages,avg_messages_per_sec,avg_payload_throughput_MiB_sec,avg_mean_rtt_ms,avg_median_rtt_ms,avg_stddev_ms,avg_min_ms,avg_max_ms,stdev_of_messages_per_sec,ci95_messages_per_sec
+throughput100KB_results,10,30.001,102400.000,30693.100,1023.084,99.909,0.872,0.855,0.171,0.520,10.281,30.463,18.881
+throughput10KB_results,10,30.000,10240.000,70454.400,2348.471,22.934,0.413,0.404,0.064,0.293,6.798,104.242,64.610
+throughput15MB_results,5,60.054,15728640.000,504.600,8.402,126.038,75.307,71.340,75.645,41.501,1542.490,0.594,0.521
+throughput1MB_results,5,60.002,1048576.000,7875.800,131.260,131.260,5.309,5.289,1.165,2.458,52.336,2.828,2.479
+throughput500KB_results,10,60.001,512000.000,16572.200,276.196,134.861,2.536,2.498,0.586,1.391,32.677,5.005,3.102
+throughput50KB_results,10,30.000,51200.000,54327.600,1810.901,88.424,0.532,0.518,0.085,0.387,4.982,61.522,38.132
+throughput8MB_results,5,60.041,8388608.000,991.200,16.506,132.068,38.674,38.110,7.612,19.362,59.245,1.071,0.939

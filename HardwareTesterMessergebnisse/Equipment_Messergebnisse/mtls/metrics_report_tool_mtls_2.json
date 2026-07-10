@@ -1,0 +1,16 @@
+{
+  "AppType": "Tool",
+  "Size": "XL",
+  "TotalDuration": "00:09:52.9944108",
+  "ExpectedTotalMessageCount": 237197,
+  "AchievedTotalMessageCountPercentage": 99.99283296163105,
+  "ErrorCount": 0,
+  "PeakMemoryMB": 148,
+  "AverageMemoryMB": 138.4623046875,
+  "AverageCpuPercent": 5.019192581840972,
+  "MemoryTrend": "Stable",
+  "AchievedMessagesPerSecond": 399.97004302287434,
+  "AverageLatencyMs": 20.484137413569446,
+  "MinLatencyMs": 2.3607,
+  "MaxLatencyMs": 890.5805
+}

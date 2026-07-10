@@ -1,0 +1,8 @@
+payload,file_count,avg_runs,avg_mean_ms,avg_median_ms,avg_stddev_ms,avg_min_ms,avg_max_ms,stdev_of_mean_ms,ci95_mean_ms
+1_latency10KB_results,10,1000.000,0.470,0.391,0.322,0.290,4.833,0.026,0.016
+2_latency50KB_results,10,500.000,0.733,0.609,0.425,0.420,5.251,0.051,0.032
+3_latency100KB_results,10,250.000,1.003,0.880,0.437,0.606,4.478,0.089,0.055
+4_latency500KB_results,10,100.000,3.172,2.997,0.915,1.796,7.289,0.240,0.149
+5_latency1MB_results,10,50.000,5.433,5.222,1.477,3.185,10.604,0.681,0.422
+6_latency8MB_results,10,20.000,37.738,36.741,10.189,23.842,56.894,9.878,6.122
+7_latency15MB_results,10,10.000,83.882,85.548,12.154,65.674,100.996,24.526,15.201
