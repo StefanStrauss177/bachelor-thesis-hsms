@@ -2,7 +2,7 @@ import socket
 import struct
 
 # IP address of the HSMS equipment.
-EQUIPMENT = "<Equipment_IP>"
+HOST = "<HOST_IP>"
 
 # TCP port used for the HSMS connection.
 PORT = <PORT>
