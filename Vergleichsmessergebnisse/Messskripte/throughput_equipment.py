@@ -4,7 +4,7 @@ import time
 import statistics
 
 # IP address of the HSMS equipment.
-HOST_IP = "<HOST_IP>"
+EQUIPMENT_IP = "<EQUIPMENT_IP>"
 
 # TCP port used for the HSMS connection.
 PORT = <PORT>
