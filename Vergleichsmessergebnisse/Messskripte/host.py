@@ -248,9 +248,9 @@ def handle_connection(conn):
 
 def main():
     """
-    Starts the passive HSMS equipment side.
+    Starts the passive HSMS side.
 
-    The equipment opens a TCP server socket, waits for incoming host connections and passes each established connection
+    The passive side opens a TCP server socket, waits for incoming host connections and passes each established connection
     to the connection handler.
     """
     server = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
