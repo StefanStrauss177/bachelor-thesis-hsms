@@ -258,13 +258,13 @@ def main():
     # Ensures that TCP sends data immediately instead of waiting to combine small packets.
     server.setsockopt(socket.IPPROTO_TCP, socket.TCP_NODELAY, 1)
 
-    # Bind the server socket to the equipment IP address and HSMS port.
+    # Bind the server socket to the host IP address and HSMS port.
     server.bind((HOST, PORT))
 
     # Allow one pending connection.
     server.listen(1)
 
-    print(f"Equipment listening on {HOST}:{PORT}")
+    print(f"Host listening on {HOST}:{PORT}")
 
     try:
         while True:
@@ -280,7 +280,7 @@ def main():
                 conn.close()
 
     except KeyboardInterrupt:
-        print("Stopping equipment")
+        print("Stopping host")
     finally:
         server.close()
 
